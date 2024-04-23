@@ -287,3 +287,5 @@ var Utils = {
   }
 };
 console.log("Utils loaded!")
+console.log("This is a official Venge code snippet which I need to rewrite a function, if you want to check for any suspicious code. Here is the GitHub page of it below")
+console.log("https://github.com/NeXiDE/Venge-Utils/blob/main/Utils.js")
