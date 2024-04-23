@@ -286,3 +286,4 @@ var Utils = {
       }
   }
 };
+console.log("Utils loaded!")
